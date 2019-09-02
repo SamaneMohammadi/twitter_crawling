@@ -1,0 +1,388 @@
+
+-----------------------------------the latest 20 followers and friends for first user-----------------------------------
+
+The latest 20 followers of first user :
+
+the screen_name of follwer : rusty_clayton  UserId: 1058929975443767296
+--------------------------------------------------
+
+the screen_name of follwer : ogando_oscar  UserId: 2474178459
+--------------------------------------------------
+
+the screen_name of follwer : rodneymilley  UserId: 2747459541
+--------------------------------------------------
+
+the screen_name of follwer : Cwilz99  UserId: 1023625461467959296
+--------------------------------------------------
+
+the screen_name of follwer : jeffjotz  UserId: 2541493723
+--------------------------------------------------
+
+the screen_name of follwer : KlockCoach  UserId: 1058804273524273157
+--------------------------------------------------
+
+the screen_name of follwer : blitz56r  UserId: 30305672
+--------------------------------------------------
+
+the screen_name of follwer : TimPfeifer4  UserId: 3148869060
+--------------------------------------------------
+
+the screen_name of follwer : Sprts_Poltics  UserId: 883023138
+--------------------------------------------------
+
+the screen_name of follwer : glitch205  UserId: 1058747242381742081
+--------------------------------------------------
+
+the screen_name of follwer : breeden_dwayne  UserId: 1035905514532683776
+--------------------------------------------------
+
+the screen_name of follwer : fredlh0402  UserId: 391041552
+--------------------------------------------------
+
+the screen_name of follwer : sandra_eid  UserId: 1262507359
+--------------------------------------------------
+
+the screen_name of follwer : RVA29  UserId: 222655989
+--------------------------------------------------
+
+the screen_name of follwer : go_irish722  UserId: 937497242
+--------------------------------------------------
+
+the screen_name of follwer : FormulasW  UserId: 1057037691223728129
+--------------------------------------------------
+
+the screen_name of follwer : EvolvedNest  UserId: 2197477219
+--------------------------------------------------
+
+the screen_name of follwer : numenor1938  UserId: 1058379756171862016
+--------------------------------------------------
+
+the screen_name of follwer : RicoQuesada52  UserId: 866060698480025600
+--------------------------------------------------
+
+the screen_name of follwer : Deacon_Eddy  UserId: 38580262
+--------------------------------------------------
+
+
+The latest 20 friends of first user:
+
+the screen_name of friend : CushwaCenter  UserId: 2462129713
+--------------------------------------------------
+
+the screen_name of friend : onlinenotredame  UserId: 1612470456
+--------------------------------------------------
+
+the screen_name of friend : ND_ISC  UserId: 769223462720270336
+--------------------------------------------------
+
+the screen_name of friend : SafetyND  UserId: 758393455244668930
+--------------------------------------------------
+
+the screen_name of friend : ND_AMST  UserId: 1676266663
+--------------------------------------------------
+
+the screen_name of friend : NDCampusDining  UserId: 2770055064
+--------------------------------------------------
+
+the screen_name of friend : LEOatND  UserId: 2881765379
+--------------------------------------------------
+
+the screen_name of friend : MedievalND  UserId: 2342149801
+--------------------------------------------------
+
+the screen_name of friend : NDBasilica  UserId: 2294123582
+--------------------------------------------------
+
+the screen_name of friend : NDCalifornia  UserId: 3026678921
+--------------------------------------------------
+
+the screen_name of friend : ND_EthicsCenter  UserId: 1410892657
+--------------------------------------------------
+
+the screen_name of friend : NDArchives  UserId: 621947266
+--------------------------------------------------
+
+the screen_name of friend : NDLicensing  UserId: 3022253357
+--------------------------------------------------
+
+the screen_name of friend : ND_Turbo  UserId: 718162958745018368
+--------------------------------------------------
+
+the screen_name of friend : IndianaCTSI  UserId: 186445709
+--------------------------------------------------
+
+the screen_name of friend : ND_Grad  UserId: 2445752108
+--------------------------------------------------
+
+the screen_name of friend : NDBios  UserId: 3434640886
+--------------------------------------------------
+
+the screen_name of friend : NDCERV  UserId: 710119915425013760
+--------------------------------------------------
+
+the screen_name of friend : NDLEEF  UserId: 2561351552
+--------------------------------------------------
+
+the screen_name of friend : ND_ECI  UserId: 360117184
+--------------------------------------------------
+
+
+----------------------------------- the latest 20 followers and friends for second user-----------------------------------
+
+The latest 20 followers of second user :
+
+the screen_name of follwer : n75390877  UserId: 1059029166849449985
+--------------------------------------------------
+
+the screen_name of follwer : 5234211111  UserId: 339121445
+--------------------------------------------------
+
+the screen_name of follwer : wheelzon_dabus  UserId: 74851354
+--------------------------------------------------
+
+the screen_name of follwer : djlax111  UserId: 1059027493280190464
+--------------------------------------------------
+
+the screen_name of follwer : UkDenver  UserId: 1059026856802955265
+--------------------------------------------------
+
+the screen_name of follwer : alexferizis  UserId: 1059029649936633856
+--------------------------------------------------
+
+the screen_name of follwer : Tice06679847  UserId: 1049855660320378880
+--------------------------------------------------
+
+the screen_name of follwer : Ajmal45553136  UserId: 1059030358547525632
+--------------------------------------------------
+
+the screen_name of follwer : Elliotthenry8  UserId: 866716318266908675
+--------------------------------------------------
+
+the screen_name of follwer : Gsm71937796  UserId: 1059028947948707840
+--------------------------------------------------
+
+the screen_name of follwer : jyle_flores  UserId: 1059029997489315840
+--------------------------------------------------
+
+the screen_name of follwer : caldas_biel  UserId: 1058886262118072326
+--------------------------------------------------
+
+the screen_name of follwer : Azeezoje  UserId: 1059024761060233217
+--------------------------------------------------
+
+the screen_name of follwer : Farhan_Mughal11  UserId: 785883171741065216
+--------------------------------------------------
+
+the screen_name of follwer : EllenAhern2  UserId: 1059025997767553024
+--------------------------------------------------
+
+the screen_name of follwer : yasmine42124493  UserId: 1059028200267898880
+--------------------------------------------------
+
+the screen_name of follwer : TheGaryo  UserId: 473285651
+--------------------------------------------------
+
+the screen_name of follwer : AhmadMo65561159  UserId: 940816707588907008
+--------------------------------------------------
+
+the screen_name of follwer : HZMT6711  UserId: 504988921
+--------------------------------------------------
+
+the screen_name of follwer : JustBabuh  UserId: 1017385346521235457
+--------------------------------------------------
+
+
+The latest 20 friends of second user :
+
+the screen_name of friend : LeVeonBell  UserId: 170759111
+--------------------------------------------------
+
+the screen_name of friend : GetUpESPN  UserId: 975843959586086918
+--------------------------------------------------
+
+the screen_name of friend : AntDavis23  UserId: 159113258
+--------------------------------------------------
+
+the screen_name of friend : MarkelleF  UserId: 1496917872
+--------------------------------------------------
+
+the screen_name of friend : Giannis_An34  UserId: 2279776304
+--------------------------------------------------
+
+the screen_name of friend : ChrisBHaynes  UserId: 57710919
+--------------------------------------------------
+
+the screen_name of friend : ChloeKim  UserId: 1228176728
+--------------------------------------------------
+
+the screen_name of friend : RandyMoss  UserId: 456988174
+--------------------------------------------------
+
+the screen_name of friend : ittfworld  UserId: 217356882
+--------------------------------------------------
+
+the screen_name of friend : wojespn  UserId: 50323173
+--------------------------------------------------
+
+the screen_name of friend : TwitterVideo  UserId: 3282859598
+--------------------------------------------------
+
+the screen_name of friend : shonrp2  UserId: 611128174
+--------------------------------------------------
+
+the screen_name of friend : jemelehill  UserId: 35586563
+--------------------------------------------------
+
+the screen_name of friend : Jarrius  UserId: 786641888828805122
+--------------------------------------------------
+
+the screen_name of friend : marcuspaige5  UserId: 180105462
+--------------------------------------------------
+
+the screen_name of friend : dougglanville  UserId: 132819222
+--------------------------------------------------
+
+the screen_name of friend : TG3II  UserId: 216533096
+--------------------------------------------------
+
+the screen_name of friend : OfficialAJHawk  UserId: 267850381
+--------------------------------------------------
+
+the screen_name of friend : thebiglead  UserId: 343638363
+--------------------------------------------------
+
+the screen_name of friend : TheVFoundation  UserId: 22736710
+--------------------------------------------------
+
+
+----------------------------------- the latest 20 followers and friends for third user -----------------------------------
+
+The latest 20 followers of third user :
+
+the screen_name of follwer : rszabolcs  UserId: 43852654
+--------------------------------------------------
+
+the screen_name of follwer : Thatontj  UserId: 155862335
+--------------------------------------------------
+
+the screen_name of follwer : greyKjedi  UserId: 4899402257
+--------------------------------------------------
+
+the screen_name of follwer : Ava_Lee__  UserId: 4636916774
+--------------------------------------------------
+
+the screen_name of follwer : jose_diaz2010  UserId: 145734588
+--------------------------------------------------
+
+the screen_name of follwer : DarbSolomon  UserId: 1017049715676938240
+--------------------------------------------------
+
+the screen_name of follwer : rokkie  UserId: 8639922
+--------------------------------------------------
+
+the screen_name of follwer : ObinnaJohnKenn3  UserId: 1058338106586423297
+--------------------------------------------------
+
+the screen_name of follwer : XXGcKiFjob  UserId: 901750887831494656
+--------------------------------------------------
+
+the screen_name of follwer : theNeomatrix369  UserId: 793968056
+--------------------------------------------------
+
+the screen_name of follwer : Raguram0702  UserId: 814204130
+--------------------------------------------------
+
+the screen_name of follwer : lorenzroos  UserId: 14442498
+--------------------------------------------------
+
+the screen_name of follwer : SatanHussein2  UserId: 1058990865111306240
+--------------------------------------------------
+
+the screen_name of follwer : Raustone3  UserId: 1058286673556131840
+--------------------------------------------------
+
+the screen_name of follwer : AhmedAlperenUnL  UserId: 1058609600394641409
+--------------------------------------------------
+
+the screen_name of follwer : paintingsplace  UserId: 898014315164434437
+--------------------------------------------------
+
+the screen_name of follwer : thejuannonly91  UserId: 1616944333
+--------------------------------------------------
+
+the screen_name of follwer : ArashBroumand  UserId: 1641164485
+--------------------------------------------------
+
+the screen_name of follwer : ramirinhd  UserId: 2317867212
+--------------------------------------------------
+
+the screen_name of follwer : OmoleSteven  UserId: 995151386298998785
+--------------------------------------------------
+
+
+The latest 20 friends of third user :
+
+the screen_name of friend : Eric_TheITGuy  UserId: 905522121132138496
+--------------------------------------------------
+
+the screen_name of friend : jupitersignal  UserId: 14174572
+--------------------------------------------------
+
+the screen_name of friend : GIMP_Official  UserId: 2484386793
+--------------------------------------------------
+
+the screen_name of friend : zemarmot  UserId: 3200269089
+--------------------------------------------------
+
+the screen_name of friend : centricular  UserId: 1899629414
+--------------------------------------------------
+
+the screen_name of friend : openshine  UserId: 143172921
+--------------------------------------------------
+
+the screen_name of friend : gnometurk  UserId: 432796511
+--------------------------------------------------
+
+the screen_name of friend : muhamm3tkara  UserId: 165494603
+--------------------------------------------------
+
+the screen_name of friend : Puri_sm  UserId: 3148611379
+--------------------------------------------------
+
+the screen_name of friend : FlatpakApps  UserId: 769169395591643140
+--------------------------------------------------
+
+the screen_name of friend : matthias_clasen  UserId: 810241481428660224
+--------------------------------------------------
+
+the screen_name of friend : LibreLearnLab  UserId: 2240862138
+--------------------------------------------------
+
+the screen_name of friend : LASGNOME  UserId: 714930746205425664
+--------------------------------------------------
+
+the screen_name of friend : lfnw  UserId: 32279670
+--------------------------------------------------
+
+the screen_name of friend : Yulwitter  UserId: 51656510
+--------------------------------------------------
+
+the screen_name of friend : yayadelia  UserId: 102395377
+--------------------------------------------------
+
+the screen_name of friend : gsoc  UserId: 22564445
+--------------------------------------------------
+
+the screen_name of friend : raphaelhertzog  UserId: 157378690
+--------------------------------------------------
+
+the screen_name of friend : zacchiro  UserId: 107471115
+--------------------------------------------------
+
+the screen_name of friend : fsfe  UserId: 34212459
+--------------------------------------------------
+
+
+------------------------------------ End -----------------------------------
+
+
